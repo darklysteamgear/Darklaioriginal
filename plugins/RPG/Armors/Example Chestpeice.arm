@@ -1,0 +1,10 @@
+name= "Example Chestpeice"
+type= Body
+defense= 15
+agility= 0
+weight= 4
+durability= 1000
+weaknesses= ('Fire', 100), ('Ice', 100), ('AP', 100)
+strengths= ('Normal', 100), ('Electric', 50)
+abilities= ('Regenerate HP', amp1 durI)
+repairMaterials= ('Steel',5), ('Leather',5)

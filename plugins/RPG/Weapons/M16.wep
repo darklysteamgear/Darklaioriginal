@@ -1,0 +1,15 @@
+Name= M16
+Type= Ranged
+Range= 1500
+Reach= 0.7
+Damage= 2
+MeleeDam= 10
+CritMult= 2.5
+critChance= 0.01
+Accuracy= 0.8
+Clipsize= 25
+burstCount= 25
+AmmoTypes= ('Automatic Rounds')
+DamTypes= ('Normal', 100), ('Projectile', 10)
+DamTypesMelee=
+isAuto= True

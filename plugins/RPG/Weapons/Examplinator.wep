@@ -1,0 +1,15 @@
+Name= Examplinator
+Type= Ranged
+Range= 1500
+Reach= .7
+Damage= 30
+MeleeDam= 10
+CritMult= 3.0
+critChance= 0.03
+Accuracy= 1
+Clipsize= 15
+burstCount= 3
+AmmoTypes= ('AP Rounds')
+DamTypes= ('Energy', 70), ('Fire', 3), ('Normal', 1), ('Projectile', 10)
+DamTypesMelee=
+isAuto= False

@@ -1,0 +1,15 @@
+Name= Dragonov
+Type= Ranged
+Range= 5000
+Reach= 1
+Damage= 60
+MeleeDam= 10
+CritMult= 5.0
+critChance= 0.08
+Accuracy= 0.9
+Clipsize= 6
+burstCount= 1
+AmmoTypes= ('Sniper Rounds')
+DamTypes= ('Normal', 100), ('Projectile', 10)
+DamTypesMelee=
+isAuto= False

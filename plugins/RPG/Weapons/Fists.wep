@@ -1,0 +1,15 @@
+Name= Fists
+Type= Melee
+Range= 0
+Reach= 0.9
+Damage= 0
+MeleeDam= 8
+CritMult= 3.0
+critChance= 0.05
+Accuracy= 1
+Clipsize= 0
+burstCount= 1
+AmmoTypes= None
+DamTypes= ('Normal', 100)
+DamTypesMelee=
+isAuto= False

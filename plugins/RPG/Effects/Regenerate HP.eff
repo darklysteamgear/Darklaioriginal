@@ -1,0 +1,4 @@
+name= Regenerate HP
+type= statRegeneration
+increment= 1
+baseChanges= ('hp', 1)

@@ -1,0 +1,5 @@
+name= Darkly Mallows
+typeItem= Food
+weight= .01
+effects= ('Restore hp',50)
+uses= 5

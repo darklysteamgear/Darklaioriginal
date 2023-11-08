@@ -1,0 +1,15 @@
+Name= Sword
+Type= Melee
+Range= 0
+Reach= 1.3
+Damage= 0
+MeleeDam= 15
+CritMult= 3.0
+critChance= 0.2
+Accuracy= 1
+Clipsize= 0
+burstCount= 1
+AmmoTypes= None
+DamTypes= ('Bleedout', 100)
+DamTypesMelee=
+isAuto= False

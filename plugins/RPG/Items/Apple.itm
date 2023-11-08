@@ -1,0 +1,5 @@
+name= Apple
+typeItem= Food
+weight= .01
+effects= ('Restore hp',10)
+uses= 2
